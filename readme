@@ -1,29 +1,28 @@
-# Data_projects_TripleTen
- Manhattan Airbnb Vacation rental market
+Table of Contents 
 
-   (https://docs.google.com/spreadsheets/d/1OaI9Mu2ErymT3RuHLBMkbUxd-1m1Tg1MHJRX_T--ar4/edit?gid=401297096#gid=401297096)
+1. Manhattan Airbnb Project 
+https://docs.google.com/spreadsheets/d/1OaI9Mu2ErymT3RuHLBMkbUxd-1m1Tg1MHJRX_T--ar4/edit?gid=289362295#gid=289362295
+
+
+
+2. E-commerce Project
+https://docs.google.com/spreadsheets/d/1F3-qPHc9gxaAEUwoce1_7Qtncp6A5-4Ug2RgKPP640s/edit?gid=38637670#gid=38637670
+
+
+
+
+3. Superstore Returns Project 
+https://public.tableau.com/app/profile/josh.moore8457/viz/Returnsdashboard_17204900316030/Dashboard1
+
+
+
+
+4. Zomato Final Project
+https://onedrive.live.com/personal/d420e97ea9220eee/_layouts/15/Doc.aspx?resid=D420E97EA9220EEE!saa251b88953e4bae88984e6cf729b3cd&cid=d420e97ea9220eee&migratedtospo=true&app=Word
+
+
+
+
+
     
-1. Project Overview 
-  The task is to analyze Airbnb data on Manhattan's vacation rental market. More specifically, the client is curious about the most popular properties by neighhborhood and property size.
-
-2. What was done to the data 
-  Defining popularity as the sum number of reviews given with the past year, stated goals include finding the top ten most popular neighborhoods and the most popular bedroom sizes. I also determined what days of the week are the most popular.
-Finally, I investigated whether instant booking made a difference on a property's occpancy rate. 
-A complete introduction can be found on the "Start Here" sheet. Included is an excecutive summary, links to preprocessed and processed data, graphs, and assumptions. The "Change Log" indicates any changes made to the data. The
-"Data_Dictionary" contains relevant information of the data fields.
-The majority of data cleaning involved eliminating any headers that would not be useful for the project's goals. Every specific heading that was deleted can be found on the change log. The "Host_Neighborhood" header conatained misspellings of neighborhoods. I corrected these using the Proper function. 
-The "occupancy" header contained the values true or false. Using the find and replace function, I replaced true with zeros and false with ones. The graphs were created using the pivot table function. 
-Included below are screenshots of the code formula
-
-file:///Users/joshmoore/Desktop/Screenshot%202024-09-22%20at%202.24.59%E2%80%AFPM.pdf
-
-file:///Users/joshmoore/Desktop/Screenshot%202024-09-22%20at%202.35.21%E2%80%AFPM.png 
-
-3. Results 
-  The Lower East Side was the most popular neighborhood in the airbnb vacation rental market. The most popular property size was a one-bedroom rental. The same was true for the Lower East Side, as the 
-most popular property size in that particular neighborhood was one-bedroom. Saturday and Friday were the most popular days of the week by occupancy. Despite my predictions, Instant booking 
-did not dramatically change occupancy rates. The "Annual revenue of one bedroom listings in the Lower East Side" contains the specific rental listing number in which the client may want to consider investment. 
-
-4. Future Analysis 
-  No analysis was done on which of the amenties are associated with popular listings. It would be of great use for the client to know if certain amenties result in a better reported vacation. On the the hand, faulty amenties might result in a poorly-reported vacation. There certainly is no shortage of amenities listed in the data,
-and theefore more room for future expoloraty analysis. 
+           
